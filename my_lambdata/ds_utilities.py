@@ -7,7 +7,7 @@ def enlarge(n):
     """This function will multiply the input by 100
     
     Args:
-        x ([int]): [Any integer]
+        n ([int]): [Any integer]
     """
     return n*100
 
