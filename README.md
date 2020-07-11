@@ -1,12 +1,15 @@
 # lambdata-DSPT6
-A home for my lecture work.
+A couple of basic functions for lecture work.
 
-## InstalTlation
+## Installation
 
-TODO
+Use the following command to install the package.
+
+pip install -i https://test.pypi.org/simple/ lambdata-dspt6-rkt
+
 
 ## Usage
 
-TODO
+Checks dataframe for null values and performs test/train/val split for machine learning tasks.
 
 

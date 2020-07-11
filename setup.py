@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-dspt6_rkt", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Ravi Tennekone",
     author_email="ravindra-tennekone@lambdastudents.com",
     description="Simple test functions",
