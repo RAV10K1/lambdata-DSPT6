@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lambdata-dspt6_rkt", # Replace with your own username
-    version="0.0.2",
+    name="lambdata-dspt6_rkt",
+    version="0.0.3",
     author="Ravi Tennekone",
     author_email="ravindra-tennekone@lambdastudents.com",
     description="Simple test functions",
