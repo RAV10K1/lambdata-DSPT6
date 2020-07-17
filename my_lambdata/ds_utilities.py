@@ -4,6 +4,12 @@ from sklearn.datasets import load_wine
 from pdb import set_trace as breakpoint
 from Ipython.display import display
 
+def enlarge(n):
+    '''
+    This function will multiply input by 100
+    '''
+    return n*100
+
 def null_check(X):
     
     """
